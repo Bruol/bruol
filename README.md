@@ -3,24 +3,28 @@
 
 
 ### 🏢 [Flateroo](https://github.com/Flat-Finders/App) 
-* **What it is:** A comprehensive flat-sharing platform serving over 1000+ active users. 
-* **Key Features:** The application provides real-time chat, video streaming, and intelligent matching features to streamline the housing search process for students and young professionals.
+* A comprehensive flat-sharing platform serving over 1000+ active users. 
+* The application provides real-time chat, video streaming, and intelligent matching features to streamline the housing search process for students and young professionals.
 
 ### 🌐 [Youkali](https://github.com/Bruol/valea_webiste) 
-* **What it is:** A high-performance gallery and portfolio website.
-* **Key Features:** Built entirely with Astro to deliver static assets with zero JavaScript overhead. Features highly optimized image handling, integrated YouTube embeds, and a fully responsive layout via Tailwind.
+* A high-performance gallery and portfolio website.
+* Built entirely with Astro to deliver static assets with zero JavaScript overhead. Features highly optimized image handling, integrated YouTube embeds, and a fully responsive layout via Tailwind.
 
 ### 📅 [eth-timetable](https://github.com/Bruol/eth-timetable) 
-* **What it is:** A custom calendar management CLI tool tailored for ETH Zurich students.
-* **Key Features:** Automates the splitting of university `.ics` schedules into several calendars and handles seamless integration into Google Calendar.
+* A custom calendar management CLI tool tailored for ETH Zurich students.
+* Automates the splitting of university `.ics` schedules into several calendars and handles seamless integration into Google Calendar.
 
 ### 🏢 [cowerk-website](https://github.com/Bruol/cowerk-website) 
-* **What it is:** landing page for a coworking space.
-* **Key Features:**  SvelteKit for the frontend framework and deploying directly to Cloudflare.
+* landing page for a coworking space.
+* SvelteKit for the frontend framework and deploying directly to Cloudflare.
 
 ### 🖼️ [bg_remover](https://github.com/Bruol/bg_remover) 
-* **What it is:** A fast, local background removal CLI tool for macOS/iOS.
-* **Key Features:** Leverages Apple's native Vision framework to cleanly extract subjects from photos without needing to rely on third-party APIs or cloud processing.
+* A fast, local background removal CLI tool for macOS/iOS.
+* Leverages Apple's native Vision framework to cleanly extract subjects from photos without needing to rely on third-party APIs or cloud processing.
+
+### 🗃️ [chromaWebUi](https://github.com/Bruol/chromaWebUi)
+* A reactive web UI for browsing and inspecting ChromaDB collections.
+* Built with TanStack Start, supports paginated document views, near-live polling refresh, and Chroma API v2 with v1 fallback support.
 
 ---
 
