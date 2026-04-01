@@ -9,7 +9,7 @@
 * A personal website and portfolio hub.
 * Showcases projects, background, and contact details through a lightweight static site focused on fast delivery and clean presentation.
 
-### 🏢 [Flateroo](https://github.com/Flat-Finders/App)
+### 🏢 [Flateroo](https://flateroo.com)
 * A comprehensive flat-sharing platform serving over 1000+ active users.
 * The application provides real-time chat, video streaming, and intelligent matching features to streamline the housing search process for students and young professionals.
 
