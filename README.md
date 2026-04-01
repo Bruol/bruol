@@ -1,26 +1,25 @@
 
-## 💻 Recent Development Activity (Jan - Feb 2026)
+## 💻 Recent Development Activity (Mar 25 - Apr 1 2026)
 
+### 🎸 [doro-website](https://github.com/Bruol/doro-website)
+* A promotional website for a musician and live project.
+* Combines rich visual storytelling, gallery-heavy layouts, 3D elements, and contact workflows in a polished frontend.
 
-### 🏢 [Flateroo](https://github.com/Flat-Finders/App) 
-* A comprehensive flat-sharing platform serving over 1000+ active users. 
+### 🌐 [bruol.github.io](https://github.com/Bruol/bruol.github.io)
+* A personal website and portfolio hub.
+* Showcases projects, background, and contact details through a lightweight static site focused on fast delivery and clean presentation.
+
+### 🏢 [Flateroo](https://github.com/Flat-Finders/App)
+* A comprehensive flat-sharing platform serving over 1000+ active users.
 * The application provides real-time chat, video streaming, and intelligent matching features to streamline the housing search process for students and young professionals.
 
-### 🌐 [Youkali](https://github.com/Bruol/valea_webiste) 
-* A high-performance gallery and portfolio website.
-* Built entirely with Astro to deliver static assets with zero JavaScript overhead. Features highly optimized image handling, integrated YouTube embeds, and a fully responsive layout via Tailwind.
+### 📡 [internet_speed_test](https://github.com/Bruol/internet_speed_test)
+* A self-hosted network monitoring tool for comparing LAN and Wi-Fi performance.
+* Runs recurring speed tests and exposes the results through a dashboard so connectivity issues are easy to spot over time.
 
-### 📅 [eth-timetable](https://github.com/Bruol/eth-timetable) 
-* A custom calendar management CLI tool tailored for ETH Zurich students.
-* Automates the splitting of university `.ics` schedules into several calendars and handles seamless integration into Google Calendar.
-
-### 🏢 [cowerk-website](https://github.com/Bruol/cowerk-website) 
-* landing page for a coworking space.
-* SvelteKit for the frontend framework and deploying directly to Cloudflare.
-
-### 🖼️ [bg_remover](https://github.com/Bruol/bg_remover) 
-* A fast, local background removal CLI tool for macOS/iOS.
-* Leverages Apple's native Vision framework to cleanly extract subjects from photos without needing to rely on third-party APIs or cloud processing.
+### 🧪 [AutomatedSoftwareTesting-Assignments](https://github.com/Bruol/AutomatedSoftwareTesting-Assignments)
+* A software testing playground centered on fuzzing and security-oriented experiments.
+* Packages harnesses, challenge targets, and supporting dependencies for exploring automated bug discovery workflows.
 
 ### 🗃️ [chromaWebUi](https://github.com/Bruol/chromaWebUi)
 * A reactive web UI for browsing and inspecting ChromaDB collections.
