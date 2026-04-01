@@ -2,12 +2,12 @@
 ## 💻 Recent Development Activity (Mar 25 - Apr 1 2026)
 
 ### 🎸 [doro-website](https://github.com/Bruol/doro-website)
-* A performance-focused artist website for showcasing music, visuals, and live identity.
-* Blends immersive galleries, 3D presentation, and direct contact flows into a cohesive promotional frontend.
+* An artist website for presenting music, visuals, and booking details in a polished single experience.
+* Combines immersive galleries, 3D moments, and direct contact flows into a cohesive promotional frontend.
 
 ### 🌐 [bruol.github.io](https://github.com/Bruol/bruol.github.io)
-* A personal site and portfolio hub for presenting projects, background, and contact details.
-* Packages a lightweight content-driven website with analytics, static deployment, and a clean browsing experience.
+* A personal website and portfolio hub for presenting projects, background, and contact details.
+* Packages a fast content-driven site with analytics, static deployment, and a clean browsing experience.
 
 ### 📡 [internet_speed_test](https://github.com/Bruol/internet_speed_test)
 * A self-hosted network monitoring tool for tracking LAN and Wi-Fi performance over time.
