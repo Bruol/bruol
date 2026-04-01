@@ -2,28 +2,28 @@
 ## 💻 Recent Development Activity (Mar 25 - Apr 1 2026)
 
 ### 🎸 [doro-website](https://github.com/Bruol/doro-website)
-* A promotional website for a musician and live project.
-* Combines rich visual storytelling, gallery-heavy layouts, 3D elements, and contact workflows in a polished frontend.
+* A performance-focused artist website for showcasing music, visuals, and live identity.
+* Blends immersive galleries, 3D presentation, and direct contact flows into a cohesive promotional frontend.
 
 ### 🌐 [bruol.github.io](https://github.com/Bruol/bruol.github.io)
-* A personal website and portfolio hub.
-* Showcases projects, background, and contact details through a lightweight static site focused on fast delivery and clean presentation.
-
-### 🏢 [Flateroo](https://flateroo.com)
-* A comprehensive flat-sharing platform serving over 1000+ active users.
-* The application provides real-time chat, video streaming, and intelligent matching features to streamline the housing search process for students and young professionals.
+* A personal site and portfolio hub for presenting projects, background, and contact details.
+* Packages a lightweight content-driven website with analytics, static deployment, and a clean browsing experience.
 
 ### 📡 [internet_speed_test](https://github.com/Bruol/internet_speed_test)
-* A self-hosted network monitoring tool for comparing LAN and Wi-Fi performance.
-* Runs recurring speed tests and exposes the results through a dashboard so connectivity issues are easy to spot over time.
+* A self-hosted network monitoring tool for tracking LAN and Wi-Fi performance over time.
+* Automates recurring speed checks and publishes dashboard views that make connection regressions easy to spot.
 
 ### 🧪 [AutomatedSoftwareTesting-Assignments](https://github.com/Bruol/AutomatedSoftwareTesting-Assignments)
-* A software testing playground centered on fuzzing and security-oriented experiments.
-* Packages harnesses, challenge targets, and supporting dependencies for exploring automated bug discovery workflows.
+* A security testing lab for fuzzing, protocol experimentation, and bug-finding workflows.
+* Bundles challenge targets, harnesses, and vulnerable dependencies for hands-on automated testing exercises.
+
+### 🏢 [Flateroo](https://flateroo.com)
+* A flat-sharing platform for helping students and young professionals find compatible housing faster.
+* Combines matching, chat, and richer listing workflows to streamline the search from discovery to connection.
 
 ### 🗃️ [chromaWebUi](https://github.com/Bruol/chromaWebUi)
-* A reactive web UI for browsing and inspecting ChromaDB collections.
-* Built with TanStack Start, supports paginated document views, near-live polling refresh, and Chroma API v2 with v1 fallback support.
+* A browser-based interface for exploring and inspecting ChromaDB collections and documents.
+* Supports paginated data views, near-live refresh, and compatibility across newer and legacy Chroma API versions.
 
 ---
 
