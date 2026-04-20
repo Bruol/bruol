@@ -1,9 +1,9 @@
 
-## 💻 Recent Development Activity (Apr 6 - Apr 13 2026)
+## 💻 Recent Development Activity (Apr 13 - Apr 20 2026)
 
-### 🖼️ [slideshow](https://github.com/Bruol/slideshow)
-* A minimal full-screen React slideshow viewer for local images and videos placed under `public/`.
-* Supports keyboard-driven navigation, mixed media playback, and automatic refresh when the media set changes during development.
+### 🧪 [fs26-ast-project](https://github.com/kenji-k6/fs26-ast-project)
+* A C++ SQL fuzzing toolkit for generating schema, query, and modifying statements against SQLite-like targets.
+* Includes oracle comparison scripts and AST-based SQL generation for finding behavioral differences more quickly.
 
 ### 👤 [bruol](https://github.com/Bruol/bruol)
 * A GitHub profile repository for turning recent work into a compact public snapshot of projects, background, and links.
