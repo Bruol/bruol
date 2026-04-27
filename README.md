@@ -1,17 +1,14 @@
 
-## 💻 Recent Development Activity (Apr 13 - Apr 20 2026)
+## 💻 Recent Development Activity (Apr 20 - Apr 27 2026)
 
-### 🧪 [fs26-ast-project](https://github.com/kenji-k6/fs26-ast-project)
-* A C++ SQL fuzzing toolkit for generating schema, query, and modifying statements against SQLite-like targets.
-* Includes oracle comparison scripts and AST-based SQL generation for finding behavioral differences more quickly.
+### 🏢 [cowerk-website](https://github.com/Bruol/cowerk-website)
+* A landing site and signup flow for matching people around shared work habits and coworking preferences.
 
-### 👤 [bruol](https://github.com/Bruol/bruol)
-* A GitHub profile repository for turning recent work into a compact public snapshot of projects, background, and links.
-* Keeps the profile readable with rotating activity highlights while preserving a stable personal overview.
+### 🎉 [lorympiade](https://github.com/fridowicke/lorympiade)
+* A playful event microsite for presenting invitations, schedules, and motion-heavy visual storytelling.
 
 ### 🏢 [Flateroo](https://flateroo.com)
 * A flat-sharing platform for helping students and young professionals find compatible housing faster.
-* Combines matching, chat, and richer listing workflows to streamline the search from discovery to connection.
 
 ---
 
