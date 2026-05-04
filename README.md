@@ -1,11 +1,14 @@
 
-## 💻 Recent Development Activity (Apr 20 - Apr 27 2026)
+## 💻 Recent Development Activity (Apr 27 - May 4 2026)
+
+### 🏫 [doro-website](https://github.com/Bruol/doro-website)
+* A multilingual course and bookings website for presenting programs, handling enquiries, and converting visitors into signups.
+
+### 📨 [cloudflare-smtp](https://github.com/Bruol/cloudflare-smtp)
+* A reusable SMTP package for Cloudflare Workers that makes transactional email easier to ship and publish across projects.
 
 ### 🏢 [cowerk-website](https://github.com/Bruol/cowerk-website)
 * A landing site and signup flow for matching people around shared work habits and coworking preferences.
-
-### 🎉 [lorympiade](https://github.com/fridowicke/lorympiade)
-* A playful event microsite for presenting invitations, schedules, and motion-heavy visual storytelling.
 
 ### 🏢 [Flateroo](https://flateroo.com)
 * A flat-sharing platform for helping students and young professionals find compatible housing faster.
