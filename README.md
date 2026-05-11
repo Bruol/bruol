@@ -1,17 +1,17 @@
 
-## 💻 Recent Development Activity (Apr 27 - May 4 2026)
+## 💻 Recent Development Activity (May 4 - May 11 2026)
 
-### 🏫 [doro-website](https://github.com/Bruol/doro-website)
-* A multilingual course and bookings website for presenting programs, handling enquiries, and converting visitors into signups.
+### 🧪 [fs26-ast-project](https://github.com/kenji-k6/fs26-ast-project)
+* A generation-based SQLite differential fuzzer that creates randomized database states and SQL queries to catch engine mismatches automatically.
 
-### 📨 [cloudflare-smtp](https://github.com/Bruol/cloudflare-smtp)
-* A reusable SMTP package for Cloudflare Workers that makes transactional email easier to ship and publish across projects.
+### 🏫 [AFLT-S26-Assignment-1](https://github.com/Bruol/AFLT-S26-Assignment-1)
+* A formal languages coursework repo for writing and organizing automata, temporal logic, and verification exercises in a clean submission format.
 
-### 🏢 [cowerk-website](https://github.com/Bruol/cowerk-website)
-* A landing site and signup flow for matching people around shared work habits and coworking preferences.
+### 🗄️ [TagesschauDB](https://github.com/jujuschn/TagesschauDB)
+* A resumable media archiving pipeline for downloading, transcribing, and indexing decades of Tagesschau broadcasts into a searchable dataset.
 
 ### 🏢 [Flateroo](https://flateroo.com)
-* A flat-sharing platform for helping students and young professionals find compatible housing faster.
+* A flat-sharing platform for browsing shared flats, comparing compatibility, and helping people find better long-term housing matches.
 
 ---
 
