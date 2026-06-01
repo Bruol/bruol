@@ -1,14 +1,14 @@
 
-## 💻 Recent Development Activity (May 4 - May 11 2026)
+## 💻 Recent Development Activity (May 25 - June 1 2026)
 
-### 🧪 [fs26-ast-project](https://github.com/kenji-k6/fs26-ast-project)
-* A generation-based SQLite differential fuzzer that creates randomized database states and SQL queries to catch engine mismatches automatically.
+### 🔊 [phoneMessage](https://github.com/Bruol/phoneMessage)
+* An ESP32 audio message box that plays voice recordings from a microSD card when a physical switch is toggled.
 
-### 🏫 [AFLT-S26-Assignment-1](https://github.com/Bruol/AFLT-S26-Assignment-1)
-* A formal languages coursework repo for writing and organizing automata, temporal logic, and verification exercises in a clean submission format.
+### 🍓 [raspi_hello_world](https://github.com/Bruol/raspi_hello_world)
+* A bare-metal Raspberry Pi 4 starter that boots in QEMU and prints `Hello World!` over UART from raw AArch64 assembly.
 
-### 🗄️ [TagesschauDB](https://github.com/jujuschn/TagesschauDB)
-* A resumable media archiving pipeline for downloading, transcribing, and indexing decades of Tagesschau broadcasts into a searchable dataset.
+### 🌕 [valea-website](https://github.com/Bruol/valea-website)
+* A production website for Cie. Youkali's *ON THE MOON*, presenting the show concept, dates, collaborators, and contact details.
 
 ### 🏢 [Flateroo](https://flateroo.com)
 * A flat-sharing platform for browsing shared flats, comparing compatibility, and helping people find better long-term housing matches.
