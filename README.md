@@ -1,17 +1,17 @@
 
-## 💻 Recent Development Activity (May 25 - June 1 2026)
+## 💻 Recent Development Activity (June 1 - June 8 2026)
 
 ### 🔊 [phoneMessage](https://github.com/Bruol/phoneMessage)
-* An ESP32 audio message box that plays voice recordings from a microSD card when a physical switch is toggled.
+* An ESP32 voice-message player that maps keypad input to long and short audio notes stored on a microSD card.
 
-### 🍓 [raspi_hello_world](https://github.com/Bruol/raspi_hello_world)
-* A bare-metal Raspberry Pi 4 starter that boots in QEMU and prints `Hello World!` over UART from raw AArch64 assembly.
-
-### 🌕 [valea-website](https://github.com/Bruol/valea-website)
-* A production website for Cie. Youkali's *ON THE MOON*, presenting the show concept, dates, collaborators, and contact details.
+### 🌐 [bruol.github.io](https://github.com/Bruol/bruol.github.io)
+* A Hugo-powered personal website that serves as my portfolio, link hub, and CV home on the web.
 
 ### 🏢 [Flateroo](https://flateroo.com)
 * A flat-sharing platform for browsing shared flats, comparing compatibility, and helping people find better long-term housing matches.
+
+### 🍓 [raspi_hello_world](https://github.com/Bruol/raspi_hello_world)
+* A bare-metal Raspberry Pi 4 starter that boots in QEMU and prints `Hello World!` over UART from raw AArch64 assembly.
 
 ---
 
