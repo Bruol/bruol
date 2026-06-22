@@ -1,17 +1,20 @@
 
-## 💻 Recent Development Activity (June 1 - June 8 2026)
+## 💻 Recent Development Activity (Most recent active week: June 8 - June 14 2026)
 
 ### 🔊 [phoneMessage](https://github.com/Bruol/phoneMessage)
 * An ESP32 voice-message player that maps keypad input to long and short audio notes stored on a microSD card.
 
+### 👤 [bruol](https://github.com/Bruol/bruol)
+* A GitHub profile repository that turns recent work and background highlights into a compact developer landing page.
+
 ### 🌐 [bruol.github.io](https://github.com/Bruol/bruol.github.io)
 * A Hugo-powered personal website that serves as my portfolio, link hub, and CV home on the web.
 
-### 🏢 [Flateroo](https://flateroo.com)
-* A flat-sharing platform for browsing shared flats, comparing compatibility, and helping people find better long-term housing matches.
-
 ### 🍓 [raspi_hello_world](https://github.com/Bruol/raspi_hello_world)
 * A bare-metal Raspberry Pi 4 starter that boots in QEMU and prints `Hello World!` over UART from raw AArch64 assembly.
+
+### 🏢 [Flateroo](https://flateroo.com)
+* A flat-sharing platform for browsing shared flats, comparing compatibility, and helping people find better long-term housing matches.
 
 ---
 
