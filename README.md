@@ -1,11 +1,14 @@
 
-## 💻 Recent Development Activity (Most recent active week: June 22 - June 28 2026)
+## 💻 Recent Development Activity (Most recent active week: June 29 - July 5 2026)
+
+### 🎨 [drifa-poster](https://github.com/Bruol/drifa-poster)
+* A p5.js poster-design playground for composing browser-based generative poster visuals.
+
+### 🖥️ [eink](https://github.com/Bruol/eink)
+* A PlatformIO firmware sandbox for bringing up ESP32-based e-ink display hardware and test demos.
 
 ### 👤 [bruol](https://github.com/Bruol/bruol)
 * A GitHub profile repository that turns recent work and background highlights into a compact developer landing page.
-
-### 🖥️ [eink](https://github.com/Bruol/eink)
-* A small PlatformIO firmware sandbox for experimenting with e-ink display hardware and embedded device setup.
 
 ### 🏢 [Flateroo](https://flateroo.com)
 * A flat-sharing platform for browsing shared flats, comparing compatibility, and helping people find better long-term housing matches.
