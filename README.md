@@ -1,17 +1,20 @@
 
-## 💻 Recent Development Activity (Most recent active week: June 29 - July 5 2026)
+## 💻 Recent Development Activity (Most recent active week: July 13 - July 19 2026)
 
-### 🎨 [drifa-poster](https://github.com/Bruol/drifa-poster)
-* A p5.js poster-design playground for composing browser-based generative layouts and visuals.
-
-### 🖥️ [eink](https://github.com/Bruol/eink)
-* A PlatformIO firmware sandbox for bringing up ESP32 e-ink hardware and iterating on display demos.
+### 📅 [CEMETS](https://github.com/Bruol/cemets-app)
+* An Expo conference companion for browsing the CEMETS program, saving sessions, exploring speakers, and navigating the venue.
 
 ### 👤 [bruol](https://github.com/Bruol/bruol)
 * A GitHub profile repository that turns recent project activity into a compact developer landing page.
 
 ### 🏢 [Flateroo](https://flateroo.com)
 * A flat-sharing platform for browsing shared flats, comparing compatibility, and helping people find better long-term housing matches.
+
+### 🎨 [drifa-poster](https://github.com/Bruol/drifa-poster)
+* A p5.js poster-design playground for composing browser-based generative layouts and visuals.
+
+### 🖥️ [eink](https://github.com/Bruol/eink)
+* A PlatformIO firmware sandbox for bringing up ESP32 e-ink hardware and iterating on display demos.
 
 ### 🔊 [phoneMessage](https://github.com/Bruol/phoneMessage)
 * An ESP32 voice-message device that maps keypad input to stored audio notes on a microSD card.
