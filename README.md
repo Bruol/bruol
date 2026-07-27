@@ -1,14 +1,17 @@
 
-## 💻 Recent Development Activity (Most recent active week: July 13 - July 19 2026)
+## 💻 Recent Development Activity (Most recent active week: July 20 - July 26 2026)
 
 ### 📅 [CEMETS](https://github.com/Bruol/cemets-app)
-* An Expo conference companion for browsing the CEMETS program, saving sessions, exploring speakers, and navigating the venue.
-
-### 👤 [bruol](https://github.com/Bruol/bruol)
-* A GitHub profile repository that turns recent project activity into a compact developer landing page.
+* An Expo conference companion that syncs event data, saves sessions offline, presents speakers, and guides attendees around the venue.
 
 ### 🏢 [Flateroo](https://flateroo.com)
 * A flat-sharing platform for browsing shared flats, comparing compatibility, and helping people find better long-term housing matches.
+
+### 🌍 [CEMETS Global](https://github.com/cemets-global/cg-website)
+* A web platform that explains CEMETS education reform programs, presents their evidence and outcomes, and connects policymakers with the organization.
+
+### 👤 [bruol](https://github.com/Bruol/bruol)
+* A GitHub profile repository that turns recent project activity into a compact developer landing page.
 
 ### 🎨 [drifa-poster](https://github.com/Bruol/drifa-poster)
 * A p5.js poster-design playground for composing browser-based generative layouts and visuals.
