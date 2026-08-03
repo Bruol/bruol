@@ -1,17 +1,20 @@
 
-## 💻 Recent Development Activity (Most recent active week: July 20 - July 26 2026)
+## 💻 Recent Development Activity (Most recent active week: July 27 - August 2 2026)
 
 ### 📅 [CEMETS](https://github.com/Bruol/cemets-app)
 * An Expo conference companion that syncs event data, saves sessions offline, presents speakers, and guides attendees around the venue.
 
-### 🏢 [Flateroo](https://flateroo.com)
-* A flat-sharing platform for browsing shared flats, comparing compatibility, and helping people find better long-term housing matches.
+### 🎪 [Cie. Youkali](https://github.com/Bruol/valea-website)
+* An Astro performance site that presents contemporary circus productions, tour dates, galleries, collaborators, and supporters.
 
-### 🌍 [CEMETS Global](https://github.com/cemets-global/cg-website)
-* A web platform that explains CEMETS education reform programs, presents their evidence and outcomes, and connects policymakers with the organization.
+### 🧑‍💻 [co_werk5](https://github.com/Bruol/cowerk-website)
+* A bilingual coworking-space site that introduces the rooms and community while handling trial-week and contact requests.
 
 ### 👤 [bruol](https://github.com/Bruol/bruol)
 * A GitHub profile repository that turns recent project activity into a compact developer landing page.
+
+### 🌍 [CEMETS Global](https://github.com/cemets-global/cg-website)
+* A web platform that explains CEMETS education reform programs, presents their evidence and outcomes, and connects policymakers with the organization.
 
 ### 🎨 [drifa-poster](https://github.com/Bruol/drifa-poster)
 * A p5.js poster-design playground for composing browser-based generative layouts and visuals.
@@ -27,6 +30,9 @@
 
 ### 🍓 [raspi_hello_world](https://github.com/Bruol/raspi_hello_world)
 * A bare-metal Raspberry Pi 4 starter that boots in QEMU and prints `Hello World!` over UART from raw AArch64 assembly.
+
+### 🏢 [Flateroo](https://flateroo.com)
+* A flat-sharing platform for browsing shared flats, comparing compatibility, and helping people find better long-term housing matches.
 
 ---
 
