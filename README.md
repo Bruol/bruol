@@ -1,5 +1,8 @@
 
-## 💻 Recent Development Activity (Most recent active week: July 27 - August 2 2026)
+## 💻 Recent Development Activity (Most recent active week: August 10 - 16 2026)
+
+### 🔗 [bruol/short](https://github.com/Bruol/url-shortener-cf)
+* A Cloudflare Workers URL shortener that stores links in KV and reverse-proxies destinations while keeping short URLs in the browser.
 
 ### 📅 [CEMETS](https://github.com/Bruol/cemets-app)
 * An Expo conference companion that syncs event data, saves sessions offline, presents speakers, and guides attendees around the venue.
