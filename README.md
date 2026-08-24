@@ -1,8 +1,11 @@
 
-## 💻 Recent Development Activity (Most recent active week: August 10 - 16 2026)
+## 💻 Recent Development Activity (Most recent active week: August 17 - 23 2026)
 
-### 🔗 [bruol/short](https://github.com/Bruol/url-shortener-cf)
-* A Cloudflare Workers URL shortener that stores links in KV and reverse-proxies destinations while keeping short URLs in the browser.
+### ⚙️ [Unikraft for Raspberry Pi 5](https://github.com/Bruol/unikraft)
+* A Raspberry Pi 5 platform port for Unikraft that boots unikernels on hardware, supports timers and RP1 GPIO, and reloads kernels over GDB.
+
+### 👤 [bruol](https://github.com/Bruol/bruol)
+* A GitHub profile repository that turns recent project activity into a compact developer landing page.
 
 ### 📅 [CEMETS](https://github.com/Bruol/cemets-app)
 * An Expo conference companion that syncs event data, saves sessions offline, presents speakers, and guides attendees around the venue.
@@ -12,9 +15,6 @@
 
 ### 🧑‍💻 [co_werk5](https://github.com/Bruol/cowerk-website)
 * A bilingual coworking-space site that introduces the rooms and community while handling trial-week and contact requests.
-
-### 👤 [bruol](https://github.com/Bruol/bruol)
-* A GitHub profile repository that turns recent project activity into a compact developer landing page.
 
 ### 🌍 [CEMETS Global](https://github.com/cemets-global/cg-website)
 * A web platform that explains CEMETS education reform programs, presents their evidence and outcomes, and connects policymakers with the organization.
@@ -33,6 +33,9 @@
 
 ### 🍓 [raspi_hello_world](https://github.com/Bruol/raspi_hello_world)
 * A bare-metal Raspberry Pi 4 starter that boots in QEMU and prints `Hello World!` over UART from raw AArch64 assembly.
+
+### 🔗 [bruol/short](https://github.com/Bruol/url-shortener-cf)
+* A Cloudflare Workers URL shortener that stores links in KV and reverse-proxies destinations while keeping short URLs in the browser.
 
 ### 🏢 [Flateroo](https://flateroo.com)
 * A flat-sharing platform for browsing shared flats, comparing compatibility, and helping people find better long-term housing matches.
