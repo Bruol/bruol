@@ -1,23 +1,26 @@
 
-## 💻 Recent Development Activity (Most recent active week: August 17 - 23 2026)
+## 💻 Recent Development Activity (Most recent active week: August 31 - September 6 2026)
 
-### ⚙️ [Unikraft for Raspberry Pi 5](https://github.com/Bruol/unikraft)
-* A Raspberry Pi 5 platform port for Unikraft that boots unikernels on hardware, supports timers and RP1 GPIO, and reloads kernels over GDB.
-
-### 👤 [bruol](https://github.com/Bruol/bruol)
-* A GitHub profile repository that turns recent project activity into a compact developer landing page.
+### 🔐 [ISL Teaching Assistant](https://github.com/Bruol/ISL_TA)
+* A security-course testbench that validates side-channel and trusted-execution exercises, compares solution patches, and packages reference answers.
 
 ### 📅 [CEMETS](https://github.com/Bruol/cemets-app)
 * An Expo conference companion that syncs event data, saves sessions offline, presents speakers, and guides attendees around the venue.
+
+### 🌍 [CEMETS Global](https://github.com/cemets-global/cg-website)
+* A web platform that maps CEMETS education reform programs, publishes their evidence and outcomes, and connects policymakers with the organization.
+
+### 🖥️ [Open Continuity](https://github.com/Bruol/open_continuity)
+* A macOS Electron app that streams a display or isolated workspace to nearby browsers over peer-to-peer WebRTC.
+
+### ⚙️ [Unikraft for Raspberry Pi 5](https://github.com/Bruol/unikraft)
+* A Raspberry Pi 5 platform port for Unikraft that boots unikernels on hardware, supports timers and RP1 GPIO, and reloads kernels over GDB.
 
 ### 🎪 [Cie. Youkali](https://github.com/Bruol/valea-website)
 * An Astro performance site that presents contemporary circus productions, tour dates, galleries, collaborators, and supporters.
 
 ### 🧑‍💻 [co_werk5](https://github.com/Bruol/cowerk-website)
 * A bilingual coworking-space site that introduces the rooms and community while handling trial-week and contact requests.
-
-### 🌍 [CEMETS Global](https://github.com/cemets-global/cg-website)
-* A web platform that explains CEMETS education reform programs, presents their evidence and outcomes, and connects policymakers with the organization.
 
 ### 🎨 [drifa-poster](https://github.com/Bruol/drifa-poster)
 * A p5.js poster-design playground for composing browser-based generative layouts and visuals.
@@ -36,6 +39,9 @@
 
 ### 🔗 [bruol/short](https://github.com/Bruol/url-shortener-cf)
 * A Cloudflare Workers URL shortener that stores links in KV and reverse-proxies destinations while keeping short URLs in the browser.
+
+### 👤 [bruol](https://github.com/Bruol/bruol)
+* A GitHub profile repository that turns recent project activity into a compact developer landing page.
 
 ### 🏢 [Flateroo](https://flateroo.com)
 * A flat-sharing platform for browsing shared flats, comparing compatibility, and helping people find better long-term housing matches.
