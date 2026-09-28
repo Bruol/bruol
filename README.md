@@ -1,11 +1,11 @@
 
-## 💻 Recent Development Activity (Most recent active public week: August 24 - 30 2026)
+## 💻 Recent Development Activity (September 21 - 27 2026)
+
+### 📅 [Calendar Hours](https://github.com/Bruol/calendar-tool)
+* A Next.js calendar ledger that combines saved ICS subscriptions, totals monthly hours, and exports events to CSV.
 
 ### 🖥️ [Open Continuity](https://github.com/Bruol/open_continuity)
 * A macOS Electron app that streams a display or isolated workspace to nearby browsers over peer-to-peer WebRTC.
-
-### 👤 [bruol](https://github.com/Bruol/bruol)
-* A GitHub profile repository that turns recent public project activity into a compact developer landing page.
 
 ### ⚙️ [Unikraft for Raspberry Pi 5](https://github.com/Bruol/unikraft)
 * A Raspberry Pi 5 platform port for Unikraft that boots unikernels on hardware, supports timers and RP1 GPIO, and reloads kernels over GDB.
