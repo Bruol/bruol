@@ -1,5 +1,11 @@
 
-## 💻 Recent Development Activity (September 21 - 27 2026)
+## 💻 Recent Development Activity (October 12 - 18 2026)
+
+### 🌐 [bruol.github.io](https://github.com/Bruol/bruol.github.io)
+* A Hugo-powered personal website for publishing a portfolio, project archive, link hub, and CV on the web.
+
+### 📄 [CV](https://github.com/Bruol/CV)
+* A React CV builder that renders a single-page A4 résumé and exports print-ready PDFs with Playwright.
 
 ### 📅 [Calendar Hours](https://github.com/Bruol/calendar-tool)
 * A Next.js calendar ledger that combines saved ICS subscriptions, totals monthly hours, and exports events to CSV.
@@ -24,9 +30,6 @@
 
 ### 🔊 [phoneMessage](https://github.com/Bruol/phoneMessage)
 * An ESP32 voice-message device that maps keypad input to stored audio notes on a microSD card.
-
-### 🌐 [bruol.github.io](https://github.com/Bruol/bruol.github.io)
-* A Hugo-powered personal website for publishing a portfolio, link hub, and CV on the web.
 
 ### 🍓 [raspi_hello_world](https://github.com/Bruol/raspi_hello_world)
 * A bare-metal Raspberry Pi 4 starter that boots in QEMU and prints `Hello World!` over UART from raw AArch64 assembly.
