@@ -1,23 +1,23 @@
 
-## 💻 Recent Development Activity (October 12 - 18 2026)
+## 💻 Recent Development Activity (October 19 - 25 2026)
 
 ### 🌐 [bruol.github.io](https://github.com/Bruol/bruol.github.io)
-* A Hugo-powered personal website for publishing a portfolio, project archive, link hub, and CV on the web.
-
-### 📄 [CV](https://github.com/Bruol/CV)
-* A React CV builder that renders a single-page A4 résumé and exports print-ready PDFs with Playwright.
+* An Astro personal site that publishes a portfolio, project archive, link hub, and CV through Cloudflare Workers.
 
 ### 📅 [Calendar Hours](https://github.com/Bruol/calendar-tool)
 * A Next.js calendar ledger that combines saved ICS subscriptions, totals monthly hours, and exports events to CSV.
+
+### 🎪 [Cie. Youkali](https://github.com/Bruol/valea-website)
+* An Astro performance site that presents contemporary circus productions, tour dates, galleries, collaborators, and supporters.
+
+### 📄 [CV](https://github.com/Bruol/CV)
+* A React CV builder that renders a single-page A4 résumé and exports print-ready PDFs with Playwright.
 
 ### 🖥️ [Open Continuity](https://github.com/Bruol/open_continuity)
 * A macOS Electron app that streams a display or isolated workspace to nearby browsers over peer-to-peer WebRTC.
 
 ### ⚙️ [Unikraft for Raspberry Pi 5](https://github.com/Bruol/unikraft)
 * A Raspberry Pi 5 platform port for Unikraft that boots unikernels on hardware, supports timers and RP1 GPIO, and reloads kernels over GDB.
-
-### 🎪 [Cie. Youkali](https://github.com/Bruol/valea-website)
-* An Astro performance site that presents contemporary circus productions, tour dates, galleries, collaborators, and supporters.
 
 ### 🧑‍💻 [co_werk5](https://github.com/Bruol/cowerk-website)
 * A bilingual coworking-space site that introduces the rooms and community while handling trial-week and contact requests.
