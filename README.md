@@ -1,5 +1,8 @@
 
-## 💻 Recent Development Activity (October 19 - 25 2026)
+## 💻 Recent Development Activity (October 26 - November 1 2026)
+
+### 📄 [CV](https://github.com/Bruol/CV)
+* A React CV builder that renders tailored single-page A4 résumé variants in a shared template and exports print-ready PDFs with Playwright.
 
 ### 🌐 [bruol.github.io](https://github.com/Bruol/bruol.github.io)
 * An Astro personal site that publishes a portfolio, project archive, link hub, and CV through Cloudflare Workers.
@@ -9,9 +12,6 @@
 
 ### 🎪 [Cie. Youkali](https://github.com/Bruol/valea-website)
 * An Astro performance site that presents contemporary circus productions, tour dates, galleries, collaborators, and supporters.
-
-### 📄 [CV](https://github.com/Bruol/CV)
-* A React CV builder that renders a single-page A4 résumé and exports print-ready PDFs with Playwright.
 
 ### 🖥️ [Open Continuity](https://github.com/Bruol/open_continuity)
 * A macOS Electron app that streams a display or isolated workspace to nearby browsers over peer-to-peer WebRTC.
