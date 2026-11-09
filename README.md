@@ -1,17 +1,26 @@
 
-## 💻 Recent Development Activity (October 26 - November 1 2026)
+## 💻 Recent Development Activity (November 2 - November 8 2026)
 
 ### 📄 [CV](https://github.com/Bruol/CV)
 * A React CV builder that renders tailored single-page A4 résumé variants in a shared template and exports print-ready PDFs with Playwright.
 
+### 🎻 [Dorothea Urbantat](https://github.com/Bruol/doro-website)
+* A multilingual Astro site for a master violin maker that showcases handmade instruments, repairs, building courses, and rentals with a rate-limited contact form.
+
+### 🎪 [Cie. Youkali](https://github.com/Bruol/valea-website)
+* An Astro performance site that presents contemporary circus productions, tour dates, galleries, collaborators, and supporters, with cookie-free first-party analytics.
+
+### 🧑‍💻 [co_werk5](https://github.com/Bruol/cowerk-website)
+* A bilingual coworking-space site that introduces the rooms and community while handling trial-week and contact requests on Cloudflare Workers.
+
 ### 🌐 [bruol.github.io](https://github.com/Bruol/bruol.github.io)
 * An Astro personal site that publishes a portfolio, project archive, link hub, and CV through Cloudflare Workers.
 
+### 🔊 [phoneMessage](https://github.com/Bruol/phoneMessage)
+* An ESP32 voice-message device that maps keypad input to stored audio notes on a microSD card.
+
 ### 📅 [Calendar Hours](https://github.com/Bruol/calendar-tool)
 * A Next.js calendar ledger that combines saved ICS subscriptions, totals monthly hours, and exports events to CSV.
-
-### 🎪 [Cie. Youkali](https://github.com/Bruol/valea-website)
-* An Astro performance site that presents contemporary circus productions, tour dates, galleries, collaborators, and supporters.
 
 ### 🖥️ [Open Continuity](https://github.com/Bruol/open_continuity)
 * A macOS Electron app that streams a display or isolated workspace to nearby browsers over peer-to-peer WebRTC.
@@ -19,17 +28,11 @@
 ### ⚙️ [Unikraft for Raspberry Pi 5](https://github.com/Bruol/unikraft)
 * A Raspberry Pi 5 platform port for Unikraft that boots unikernels on hardware, supports timers and RP1 GPIO, and reloads kernels over GDB.
 
-### 🧑‍💻 [co_werk5](https://github.com/Bruol/cowerk-website)
-* A bilingual coworking-space site that introduces the rooms and community while handling trial-week and contact requests.
-
 ### 🎨 [drifa-poster](https://github.com/Bruol/drifa-poster)
 * A p5.js poster-design playground for composing browser-based generative layouts and visuals.
 
 ### 🖥️ [eink](https://github.com/Bruol/eink)
 * A PlatformIO firmware sandbox for bringing up ESP32 e-ink hardware and iterating on display demos.
-
-### 🔊 [phoneMessage](https://github.com/Bruol/phoneMessage)
-* An ESP32 voice-message device that maps keypad input to stored audio notes on a microSD card.
 
 ### 🍓 [raspi_hello_world](https://github.com/Bruol/raspi_hello_world)
 * A bare-metal Raspberry Pi 4 starter that boots in QEMU and prints `Hello World!` over UART from raw AArch64 assembly.
